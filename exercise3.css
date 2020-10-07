@@ -1,9 +1,11 @@
 /* Use display, flex-wrap, flex and justify-content to solve this */
 
 #e3 .container {
+    display: flex;
+    flex-wrap: wrap;
     
 }
 
 #e3 .item {
-    
+flex: 33%;
 }
